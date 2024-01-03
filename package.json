@@ -1,0 +1,17 @@
+{
+  "name": "yaples",
+  "version": "1.0.0",
+  "description": "vue3 project with monorepo",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue3",
+    "typescript"
+  ],
+  "author": "FateJane",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.3.3"
+  }
+}
