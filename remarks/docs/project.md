@@ -10,13 +10,7 @@
 
 主应用、基座应用
 
-https://micro-zoe.github.io/micro-app/
-
-[Go 语言如何进阶微服务](https://www.zhihu.com/question/498359816)
-[Go Zero](https://github.com/zeromicro/go-zero)
-[Topgoer](https://www.topgoer.com/)
-
-Micro App
+[Micro App](https://micro-zoe.github.io/micro-app/)
 
 一款基于 Web Component 原生组件进行渲染的微前端框架，不同于目前流行的开源框架，它从组件化的思维实现微前端，旨在降低上手难度、提升工作效率
 

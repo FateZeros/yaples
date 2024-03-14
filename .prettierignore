@@ -1,0 +1,7 @@
+# Ignore Folder
+dist
+es
+lib
+
+# Ignore File
+*.md
