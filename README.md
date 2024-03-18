@@ -4,7 +4,7 @@
 
 工程管理: pnpm + monorepo </br>
 前端: vite + vue3 + ts + scss </br>
-后端: golang </br>
+后端: java + spring </br>
 
 ## 实现功能
 
