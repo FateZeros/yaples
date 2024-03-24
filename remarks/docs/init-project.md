@@ -9,7 +9,7 @@
 [husky 文档](https://www.git-tower.com/blog/git-hooks-husky/#post-detail)
 
 ```bash
-pnpm install husky
+pnpm install husky -wD
 
 pnpm run prepare
 
